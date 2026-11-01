@@ -1,0 +1,52 @@
+{
+  "summary": {
+    "books_raw": 271379,
+    "users_raw": 278858,
+    "ratings_raw": 1149780,
+    "isbn_clean": 271016,
+    "books_clean": 232059,
+    "users_clean": 278858,
+    "ratings_isbn_known": 1031624,
+    "ratings_clean": 1024060,
+    "ratings_dropped_unknown_isbn": 118156,
+    "explicit": 382359,
+    "implicit": 641701,
+    "age_missing_pct": 40.16739702644357,
+    "year_missing": 3695,
+    "model_ratings": 130559,
+    "model_users": 11867,
+    "model_books": 5658,
+    "train_ratings": 105091,
+    "test_ratings": 25463,
+    "model_sparsity_pct": 99.80555224672129
+  },
+  "hybrid": {
+    "threshold": 20,
+    "alpha_low": 0.4,
+    "alpha_high": 0.2,
+    "k_svd": 50,
+    "precision_validasi": 0.017571261226083563
+  },
+  "svd_params": {
+    "n_factors": 20,
+    "n_epochs": 30,
+    "lr": 0.005,
+    "reg": 0.15,
+    "init_std": 0.1
+  },
+  "top_n": 10,
+  "relevant_threshold": 8,
+  "n_transactions": 11084,
+  "rules_params": {
+    "top_books": 300,
+    "min_support": 0.005,
+    "min_confidence": 0.2,
+    "max_len": 3
+  },
+  "filter": {
+    "min_book": 10,
+    "min_user": 3,
+    "test_size": 0.2
+  },
+  "created": "2026-10-31 15:55"
+}

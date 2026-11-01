@@ -1,0 +1,51 @@
+book_id,n_interaksi,n_rating,rata2,title,author,year,publisher
+0971880107,2502,581.0,4.3907056798623065,Wild Animus,Rich Shapero,2004,Too Far
+0316666343,1388,752.0,8.176196808510639,The Lovely Bones: A Novel,Alice Sebold,2002,"Little, Brown"
+0060928336,1191,542.0,7.804735547355474,Divine Secrets of the Ya-Ya Sisterhood: A Novel,Rebecca Wells,1997,Perennial
+0671021001,934,434.0,7.662442396313364,She's Come Undone (Oprah's Book Club),Wally Lamb,1998,Pocket
+0385504209,906,500.0,8.426,The Da Vinci Code,Dan Brown,2003,Doubleday
+059035342X,832,485.0,8.964604810996564,Harry Potter and the Sorcerer's Stone (Harry Potter (Paperback)),J. K. Rowling,1999,Arthur A. Levine Books
+0312278586,823,392.0,7.427295918367347,The Nanny Diaries: A Novel,Emma McLaughlin,2002,St. Martin's Press
+044023722X,819,363.0,7.384297520661157,A Painted House,John Grisham,2001,Dell Publishing Company
+0684872153,788,363.0,8.21900826446281,Angela's Ashes (MMP) : A Memoir,Frank McCourt,1999,Scribner
+014028009X,778,373.0,7.606344950848972,Bridget Jones's Diary,Helen Fielding,1999,Penguin Books
+0142001740,769,409.0,8.47799511002445,The Secret Life of Bees,Sue Monk Kidd,2003,Penguin Books
+0312195516,753,397.0,8.211586901763225,The Red Tent (Bestselling Backlist),Anita Diamant,1998,Picador USA
+0060930535,744,328.0,8.228658536585366,The Poisonwood Bible: A Novel,Barbara Kingsolver,1999,Perennial
+0316284955,717,348.0,7.761494252873563,White Oleander : A Novel (Oprah's Book Club),Janet Fitch,2000,Back Bay Books
+0316601950,671,319.0,7.553291536050157,The Pilot's Wife : A Novel,Anita Shreve,1999,Back Bay Books
+0671027360,662,309.0,8.009708737864077,Angels & Demons,Dan Brown,2001,Pocket Star
+0156027321,659,336.0,8.083333333333334,Life of Pi,Yann Martel,2003,Harvest Books
+067976402X,653,273.0,7.805860805860806,Snow Falling on Cedars,David Guterson,1995,Vintage Books USA
+0440241073,648,308.0,7.262987012987013,The Summons,John Grisham,2002,Dell Publishing Company
+0452282152,647,332.0,8.018072289156626,Girl with a Pearl Earring,Tracy Chevalier,2001,Plume Books
+0446672211,629,319.0,8.114420062695924,Where the Heart Is (Oprah's Book Club (Paperback)),Billie Letts,1998,Warner Books
+0446605239,620,288.0,7.884259259259259,The Notebook,Nicholas Sparks,1998,Warner Books
+0440214041,606,211.0,7.609004739336493,The Pelican Brief,John Grisham,1993,Dell
+0440234743,598,257.0,7.501945525291829,The Testament,John Grisham,1999,Dell
+0671510053,597,253.0,7.661396574440053,SHIPPING NEWS,Annie Proulx,1994,Scribner
+0804106304,593,223.0,8.208520179372197,The Joy Luck Club,Amy Tan,1994,Prentice Hall (K-12)
+0375727345,583,241.0,7.365145228215767,House of Sand and Fog,Andre Dubus III,2000,Vintage Books
+0440222656,568,219.0,7.408675799086758,The Horse Whisperer,Nicholas Evans,1996,Dell
+0439064872,562,331.0,8.837865055387715,Harry Potter and the Chamber of Secrets (Book 2),J. K. Rowling,2000,Scholastic
+0440226430,562,256.0,7.49609375,Summer Sisters,Judy Blume,1999,Dell Publishing Company
+044021145X,558,222.0,7.833333333333333,The Firm,John Grisham,1992,Bantam Dell Publishing Group
+0140293248,557,256.0,6.939453125,The Girls' Guide to Hunting and Fishing,Melissa Bank,2000,Penguin Books
+0345417623,548,263.0,7.866920152091255,Timeline,MICHAEL CRICHTON,2000,Ballantine Books
+0440211727,547,214.0,8.018691588785046,A Time to Kill,JOHN GRISHAM,1992,Dell
+0375700757,545,233.0,7.927038626609442,Cold Mountain : A Novel,CHARLES FRAZIER,1998,Vintage
+0440236673,542,210.0,7.438095238095238,The Brethren,John Grisham,2000,Island
+0440225701,537,207.0,7.538647342995169,The Street Lawyer,JOHN GRISHAM,1999,Dell
+1400034779,531,230.0,8.052173913043479,The No. 1 Ladies' Detective Agency (Today Show Book Club #8),Alexander McCall Smith,2003,Anchor
+0345337662,521,236.0,7.771186440677966,Interview with the Vampire,Anne Rice,1993,Ballantine Books
+0060976845,514,224.0,7.611607142857143,Little Altars Everywhere: A Novel,Rebecca Wells,1996,Perennial
+0440221471,513,195.0,7.682051282051282,The Runaway Jury,JOHN GRISHAM,1997,Dell
+0312305060,500,224.0,7.598214285714286,The Hours: A Novel,Michael Cunningham,2002,Picador
+0446610038,500,236.0,7.705508474576271,1st to Die: A Novel,James Patterson,2002,Warner Vision
+0440220602,495,204.0,7.401960784313726,The Chamber,John Grisham,1995,Dell Publishing Company
+0446310786,495,267.0,8.97752808988764,To Kill a Mockingbird,Harper Lee,1988,Little Brown & Company
+0375707972,493,217.0,7.251920122887865,The Reader,Bernhard Schlink,1999,Vintage Books USA
+0385484518,492,251.0,8.589641434262948,"Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",MITCH ALBOM,1997,Doubleday
+0743418174,491,247.0,8.048582995951417,Good in Bed,Jennifer Weiner,2002,Washington Square Press
+044022165X,490,192.0,7.5546875,The Rainmaker,JOHN GRISHAM,1996,Dell
+0446606812,488,182.0,7.6098901098901095,Message in a Bottle,Nicholas Sparks,1999,Warner Vision

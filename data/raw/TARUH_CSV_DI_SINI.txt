@@ -1,0 +1,9 @@
+Letakkan tiga file dataset di folder ini (nama file harus persis):
+
+  BX-Books.csv
+  BX-Users.csv
+  BX-Book-Ratings.csv
+
+File-file ini hanya dibutuhkan untuk menjalankan notebook atau `python -m src.pipeline`.
+Dashboard bisa langsung dijalankan tanpa file ini karena model yang sudah dilatih
+tersimpan di folder models/ dan data/processed/.
